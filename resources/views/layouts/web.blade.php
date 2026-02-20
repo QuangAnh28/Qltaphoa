@@ -426,13 +426,13 @@
             <div class="row text-start">
                 <div class="col-md-3 mb-3">
                     <h6 class="fw-bold mb-2">LIÊN HỆ</h6>
-                    <div>Đơn vị cung cấp linh kiện điện tử.</div>
+                    <div>Đơn vị cung cấp.</div>
                     <div class="mb-1 mt-2"><i class="fa fa-map-marker-alt"></i> Hà Đông, Hà Nội</div>
                     <div><i class="fa fa-phone"></i> Cửa hàng: 0123.456.789</div>
                     <div>Online: 0123.456.789</div>
                     <div>Kỹ thuật: 0123.456.789</div>
                     <div>Hotline: 0123.456.789</div>
-                    <div class="mt-1"><i class="fa fa-envelope"></i> hunter_rain@melmuop.space</div>
+                    <div class="mt-1"><i class="fa fa-envelope"></i> taphoa@gmail.com</div>
                 </div>
                 <div class="col-md-3 mb-3">
                     <h6 class="fw-bold mb-2">CHÍNH SÁCH</h6>
