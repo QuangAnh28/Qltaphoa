@@ -400,8 +400,8 @@
             <div class="row text-center">
                 <div class="col-md-3 mb-3 mb-md-0">
                     <i class="fa fa-truck fa-2x" style="color:#2db200"></i>
-                    <h6 class="mt-2 mb-1" style="color:#2196f3">Vận chuyển nhanh - 24h</h6>
-                    <div style="font-size: 14px;">Tất cả đơn hàng được xử lý trong ngày.<br>Phí vận chuyển được hỗ trợ theo từng đơn hàng cụ thể</div>
+                    <h6 class="mt-2 mb-1" style="color:#2196f3">Giao hàng nội thành</h6>
+                    <div style="font-size: 14px;">Giao nhanh trong ngày – hỗ trợ đơn từ 100.000đ.</div>
                 </div>
                 <div class="col-md-3 mb-3 mb-md-0">
                     <i class="fa fa-money-bill fa-2x" style="color:#2db200"></i>
@@ -409,9 +409,9 @@
                     <div style="font-size: 14px;">Đảm bảo chất lượng 100%</div>
                 </div>
                 <div class="col-md-3 mb-3 mb-md-0">
-                    <i class="fa fa-smile fa-2x" style="color:#2db200"></i>
-                    <h6 class="mt-2 mb-1" style="color:#2196f3">Hỗ trợ tư vấn</h6>
-                    <div style="font-size: 14px;">Thứ 2 - Chủ nhật: 08h30 - 17h30</div>
+                    <i class="fa fa-store" style="color:#2db200"></i>
+                    <h6 class="mt-2 mb-1" style="color:#2196f3">Bán lẻ & bán sỉ</h6>
+                    <div style="font-size: 14px;">Phục vụ khách lẻ và đại lý</div>
                 </div>
                 <div class="col-md-3">
                     <i class="fa fa-phone fa-2x" style="color:#2db200"></i>
@@ -439,7 +439,6 @@
                     <ul class="list-unstyled">
                         <li><a href="#">Chính sách thanh toán</a></li>
                         <li><a href="#">Chính sách vận chuyển</a></li>
-                        <li><a href="#">Chính sách bảo hành</a></li>
                         <li><a href="#">Chính sách đổi trả hàng</a></li>
                         <li><a href="#">Chính sách bảo mật</a></li>
                     </ul>
@@ -470,7 +469,7 @@
         </div>
     </div>
     <footer class="text-center mt-4 mb-2 text-muted">
-        &copy; melmuop.space
+        &copy; taphoa.space
     </footer>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script>
